@@ -1,0 +1,18 @@
+﻿GunHud {
+    width: 20%;
+    padding: 5px;
+    height: 8%;
+    top: 90vh;
+    left: 10px;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.ammo {
+    font-family: Roboto;
+    color: white;
+    font-size: 32px;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
